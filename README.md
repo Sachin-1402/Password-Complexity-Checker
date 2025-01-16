@@ -20,7 +20,7 @@ This Python-based tool assesses the strength of a given password based on multip
 2. Run the Python script:
 
     ```bash
-    python password_strength_checker.py
+    python3 password_strength_checker.py
     ```
 
 3. Enter a password when prompted. The script will evaluate the password and provide feedback based on its strength.
