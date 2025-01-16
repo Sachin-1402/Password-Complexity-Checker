@@ -25,5 +25,11 @@ This Python-based tool assesses the strength of a given password based on multip
 
 3. Enter a password when prompted. The script will evaluate the password and provide feedback based on its strength.
 
+## Password Strength Criteria
+
+- **Weak:** Passwords that are too short or lack complexity.
+- **Moderate:** Passwords that meet some criteria but could be improved.
+- **Strong:** Passwords with good complexity, including letters, numbers, and special characters.
+- **Very Strong:** Passwords that excel in all criteria (length, variety, and complexity).
 
 
