@@ -14,7 +14,7 @@ This Python-based tool assesses the strength of a given password based on multip
 
 1. Clone this repository or copy the code to your local machine.
     ```bash
-    python password_strength_checker.py
+    https://github.com/Sachin-1402/Password-Complexity-CheckerPassword-Complexity-Checker.git
     ```
 
 2. Run the Python script:
